@@ -10,8 +10,7 @@ Mae has scheduled a project kick off call with the internal Accenture project te
 About Client : Social Buzz
 Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
-Accenture Project Team :
-
+Accenture Project Team : Refer to Data_Analytics Client Brief.pdf file
 
 Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
@@ -29,11 +28,11 @@ Content type
 Category
 Data Cleaning:
 Clean the data by:
-removing rows that have values which are missing,
-changing the data type of some values within a column, and
-removing columns which are not relevant to this task.
+.removing rows that have values which are missing,
+.changing the data type of some values within a column,
+.removing columns which are not relevant to this task.
 Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
-End result will be three cleaned data set :
+End result will be three cleaned data set : Refer Cleaned-dataset.xlsx file
 
 Reaction Types
 Reactions
@@ -52,6 +51,7 @@ Data Visualization and Storytelling: Make the Powerpoint presentation as per the
 Charts Involved :
 Pie Chart
 Bar Chart
-Powerpoint Presentation : PPT
+Powerpoint Presentation : PPT-Refer the Data Analytics- Task 3_final.pptx
+
 Task - 4
 Present to the Client: Present your powerpoint presentation to the client and deliver the insights of your analysis
